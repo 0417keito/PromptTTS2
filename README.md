@@ -12,3 +12,5 @@ For future project ideas, please check out:
   Control by PromptTTS2, automation of prompt generation by LLaSA and the use of VALL-E, which has a fearsome context
   awareness capability as a backbone, will enable the generation of singing voices with accompanying music.
 
+## Usage 
+This system connects to any TTS (Text-to-Speech) backbone. It simply inputs the output representations from the variation network into the TTS backbone through cross-attention.
