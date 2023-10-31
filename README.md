@@ -5,8 +5,7 @@
 
 For future project ideas, please check out:
 - [PromptTTS2 unofficial implementation](https://github.com/0417keito/PromptTTS2)
-- [🌋 LLaSA: Large Language and Sound Assistant](https://github.com/0417keito/LLaSA)
-- [VALL-E-S Singing voice generation with accompanying music, like Suno AI. ](https://github.com/0417keito/VALL-E-S)
+- [UTAUTAI Singing voice generation with accompanying music, like Suno AI. ](https://github.com/0417keito/UTAUTAI)
   Inspired by Suno's terrifyingly accurate singing voice generation with accompanying music, we want to work towards
   making it open source.
   Control by PromptTTS2, automation of prompt generation by LLaSA and the use of VALL-E, which has a fearsome context
